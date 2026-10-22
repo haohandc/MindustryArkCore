@@ -1,0 +1,172 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "Ark Launcher 的公共代码"
+    },
+    {
+      "name": "core_granularity_off",
+      "value": "不隔离"
+    },
+    {
+      "name": "core_granularity_number",
+      "value": "按大版本"
+    },
+    {
+      "name": "core_granularity_build",
+      "value": "按构建号"
+    },
+    {
+      "name": "core_granularity_revision",
+      "value": "按完整版本"
+    },
+    {
+      "name": "core_language_system",
+      "value": "跟随系统"
+    },
+    {
+      "name": "core_language_chinese",
+      "value": "简体中文"
+    },
+    {
+      "name": "core_language_english",
+      "value": "English"
+    },
+    {
+      "name": "core_language_hint",
+      "value": "重启应用后生效"
+    },
+    {
+      "name": "core_about_version",
+      "value": "版本 %s"
+    },
+    {
+      "name": "core_name_err_empty",
+      "value": "名字不能为空。"
+    },
+    {
+      "name": "core_name_err_too_long",
+      "value": "名字不能超过 %s 个字符。"
+    },
+    {
+      "name": "core_name_err_reserved",
+      "value": "这个名字不能用作目录名。"
+    },
+    {
+      "name": "core_name_err_bad_chars",
+      "value": "名字里不能有 / \\ : * ? \" < > | 这些字符。"
+    },
+    {
+      "name": "core_name_err_space_edges",
+      "value": "名字的开头和结尾不能是空格。"
+    },
+    {
+      "name": "core_name_err_dot_edges",
+      "value": "名字的开头和结尾不能是点。"
+    },
+    {
+      "name": "core_name_err_invalid",
+      "value": "实例名不合法。"
+    },
+    {
+      "name": "core_name_default_instance",
+      "value": "实例"
+    },
+    {
+      "name": "core_name_default_instance_ts",
+      "value": "实例 %s"
+    },
+    {
+      "name": "core_slot_shared_name",
+      "value": "共用"
+    },
+    {
+      "name": "core_instance_exists",
+      "value": "已经有叫「%s」的实例了。"
+    },
+    {
+      "name": "core_instance_dir_create_fail",
+      "value": "实例目录创建失败: %s"
+    },
+    {
+      "name": "core_instance_meta_write_fail",
+      "value": "实例目录创建成功，但数据写入失败。"
+    },
+    {
+      "name": "core_instance_not_found",
+      "value": "找不到实例「%s」。"
+    },
+    {
+      "name": "core_instance_rename_fail",
+      "value": "改名失败。请检查新命名是否可用。"
+    },
+    {
+      "name": "core_instance_jar_not_found",
+      "value": "找不到游戏包「%s」。"
+    },
+    {
+      "name": "core_instance_bind_meta_fail",
+      "value": "改绑失败，写不下实例信息。"
+    },
+    {
+      "name": "core_instance_dup_failed",
+      "value": "复制失败：%s"
+    },
+    {
+      "name": "core_instance_dup_meta_fail",
+      "value": "数据已经复制过来了，但写不下实例信息。"
+    },
+    {
+      "name": "core_instance_clear_busy",
+      "value": "清不干净，可能有文件正被占用。"
+    },
+    {
+      "name": "core_copy_dir_create_fail",
+      "value": "建不了 %s"
+    },
+    {
+      "name": "core_copy_dir_read_fail",
+      "value": "读不了 %s"
+    },
+    {
+      "name": "core_copy_file_fail",
+      "value": "复制 %s 失败"
+    },
+    {
+      "name": "core_mode_desktop",
+      "value": "PC 模式"
+    },
+    {
+      "name": "core_mode_touch",
+      "value": "触屏模式"
+    },
+    {
+      "name": "core_settings_selftest",
+      "value": "自检失败：序列化后解析不回来，文件未修改"
+    },
+    {
+      "name": "core_settings_selftest_row",
+      "value": "自检失败：第 %s 条对不上，文件未修改"
+    },
+    {
+      "name": "core_settings_temp_write",
+      "value": "写入临时文件失败：%s"
+    },
+    {
+      "name": "core_settings_replace_fail",
+      "value": "替换文件失败：%s"
+    },
+    {
+      "name": "core_settings_readback_len",
+      "value": "回读长度不符：期望 %s，实际 %s"
+    },
+    {
+      "name": "core_settings_readback_byte",
+      "value": "回读字节不符，位置 %s"
+    },
+    {
+      "name": "core_settings_readback_err",
+      "value": "回读校验异常：%s"
+    }
+  ]
+}

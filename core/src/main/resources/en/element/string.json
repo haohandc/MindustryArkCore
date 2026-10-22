@@ -1,0 +1,172 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "Shared code for Ark Launcher"
+    },
+    {
+      "name": "core_granularity_off",
+      "value": "Not isolated"
+    },
+    {
+      "name": "core_granularity_number",
+      "value": "By major version"
+    },
+    {
+      "name": "core_granularity_build",
+      "value": "By build"
+    },
+    {
+      "name": "core_granularity_revision",
+      "value": "By full version"
+    },
+    {
+      "name": "core_language_system",
+      "value": "Follow system"
+    },
+    {
+      "name": "core_language_chinese",
+      "value": "简体中文"
+    },
+    {
+      "name": "core_language_english",
+      "value": "English"
+    },
+    {
+      "name": "core_language_hint",
+      "value": "Takes effect after restarting the app"
+    },
+    {
+      "name": "core_about_version",
+      "value": "Version %s"
+    },
+    {
+      "name": "core_name_err_empty",
+      "value": "Name cannot be empty."
+    },
+    {
+      "name": "core_name_err_too_long",
+      "value": "Name can be at most %s characters."
+    },
+    {
+      "name": "core_name_err_reserved",
+      "value": "This name cannot be used as a folder name."
+    },
+    {
+      "name": "core_name_err_bad_chars",
+      "value": "Name cannot contain / \\ : * ? \" < > | characters."
+    },
+    {
+      "name": "core_name_err_space_edges",
+      "value": "Name cannot start or end with a space."
+    },
+    {
+      "name": "core_name_err_dot_edges",
+      "value": "Name cannot start or end with a period."
+    },
+    {
+      "name": "core_name_err_invalid",
+      "value": "Invalid instance name."
+    },
+    {
+      "name": "core_name_default_instance",
+      "value": "Instance"
+    },
+    {
+      "name": "core_name_default_instance_ts",
+      "value": "Instance %s"
+    },
+    {
+      "name": "core_slot_shared_name",
+      "value": "Shared"
+    },
+    {
+      "name": "core_instance_exists",
+      "value": "An instance named \"%s\" already exists."
+    },
+    {
+      "name": "core_instance_dir_create_fail",
+      "value": "Could not create the instance folder: %s"
+    },
+    {
+      "name": "core_instance_meta_write_fail",
+      "value": "The instance folder was created, but writing its data failed."
+    },
+    {
+      "name": "core_instance_not_found",
+      "value": "Instance \"%s\" not found."
+    },
+    {
+      "name": "core_instance_rename_fail",
+      "value": "Rename failed. Check that the new name is usable."
+    },
+    {
+      "name": "core_instance_jar_not_found",
+      "value": "Game package \"%s\" not found."
+    },
+    {
+      "name": "core_instance_bind_meta_fail",
+      "value": "Rebinding failed: could not write the instance info."
+    },
+    {
+      "name": "core_instance_dup_failed",
+      "value": "Copy failed: %s"
+    },
+    {
+      "name": "core_instance_dup_meta_fail",
+      "value": "The data was copied, but writing the instance info failed."
+    },
+    {
+      "name": "core_instance_clear_busy",
+      "value": "Could not clear it completely; some files may be in use."
+    },
+    {
+      "name": "core_copy_dir_create_fail",
+      "value": "Could not create %s"
+    },
+    {
+      "name": "core_copy_dir_read_fail",
+      "value": "Could not read %s"
+    },
+    {
+      "name": "core_copy_file_fail",
+      "value": "Could not copy %s"
+    },
+    {
+      "name": "core_mode_desktop",
+      "value": "PC mode"
+    },
+    {
+      "name": "core_mode_touch",
+      "value": "Touch mode"
+    },
+    {
+      "name": "core_settings_selftest",
+      "value": "Self-check failed: the serialized data did not parse back; the file was not modified"
+    },
+    {
+      "name": "core_settings_selftest_row",
+      "value": "Self-check failed: row %s does not match; the file was not modified"
+    },
+    {
+      "name": "core_settings_temp_write",
+      "value": "Could not write the temp file: %s"
+    },
+    {
+      "name": "core_settings_replace_fail",
+      "value": "Could not replace the file: %s"
+    },
+    {
+      "name": "core_settings_readback_len",
+      "value": "Read-back length mismatch: expected %s, got %s"
+    },
+    {
+      "name": "core_settings_readback_byte",
+      "value": "Read-back byte mismatch at position %s"
+    },
+    {
+      "name": "core_settings_readback_err",
+      "value": "Read-back verification failed: %s"
+    }
+  ]
+}

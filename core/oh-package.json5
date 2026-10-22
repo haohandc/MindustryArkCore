@@ -1,0 +1,10 @@
+{
+  "name": "core_oss",
+  "version": "1.0.0",
+  "description": "Ark Launcher Pro 开源核心：在 HarmonyOS 上启动 Java 游戏所必需的存储、实例、启动计划与游戏设置读写",
+  "main": "Index.ets",
+  "author": "",
+  "license": "GPL-2.0-only",
+  "dependencies": {
+  }
+}

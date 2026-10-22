@@ -1,0 +1,20 @@
+# 构建产物
+build/
+.cxx/
+.preview/
+
+# 依赖
+oh_modules/
+node_modules/
+local.properties
+
+# IDE
+.idea/
+.hvigor/
+.clangd
+.clang-format
+.clang-tidy
+
+# 系统
+.DS_Store
+Thumbs.db
